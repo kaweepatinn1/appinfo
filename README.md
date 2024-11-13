@@ -11,7 +11,7 @@ a list of windows apps I find useful!
 | #3: [mpv](https://mpv.io/) | Misc | A highly configurable media player that supports more codecs than Windows Media Player | INCREDIBLE!! Supports ProRes files as well which makes this amazing for working with rushes |
 | [OBS](https://obsproject.com/) | Misc | Highly configurable recording / streaming tool | This is the GOLD standard in screen recording period. |
 | [AutoHotKey](https://www.autohotkey.com/download/) | Misc | A scripting language that allows you to create macros for Windows computers | how am I supposed to play stardew without this |
-| [ActivityWatch](https://activitywatch.net/) | Misc | A tool for monitoring usage statistics on your devices | Its like a wrapped but you don't give your info to a company :shrug: |
+| [ActivityWatch](https://activitywatch.net/) | Misc | A tool for monitoring usage statistics on your devices | It's like a wrapped but you don't give your info to a company :shrug: |
 | [LiveSplit](https://livesplit.org/downloads/) | Misc / Game | A tool for creating and running speedrun timers | UI can be confusing at times, be sure to set up before playing. |
 | [nanopm](https://github.com/kaweepatinn1/nanopm) | Misc | A CLI tool for initializing and manipulating media production projects | MADE BY ME!!!! :D |
 | [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) | Utility | A tool for checking all USB ports on your computer | Good for checking USB speeds and generations to determine which to use for best file transfer speed. |
