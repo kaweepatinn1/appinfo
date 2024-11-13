@@ -28,6 +28,6 @@ A list of windows apps I find useful
 Misc: <br>
 Apps with uses that are generally useful. <br>
 Utility: <br>
-Technical tools to fulfill a niche purpose. <br>
+Technical tools to fulfill a niche purpose to do with your computer. <br>
 Game: <br>
 A list of apps that can be used to help with gaming. <br>
