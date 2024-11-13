@@ -7,7 +7,7 @@ a list of free windows apps I find useful!
 | App Name | Type | Description | Notes |
 | -------- | ------- | ------- | ------- |
 | #1: [gInk](https://github.com/geovens/gInk)  | Misc | A drawing tool for your desktop, with many cool features! | NANO VOUCH! Allows for drawing (on) images and diagrams without having to import anything!! |
-| #2: [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) | Misc | A collection of tools to help use your computer more efficiently | My #1 and #2 favs are the "always on top" and "color picker" modules |
+| #2: [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) | Misc | A collection of tools to help use your computer more efficiently | My #1 and #2 favs are the "always on top" and "color picker" modules!! |
 | #3: [mpv](https://mpv.io/) | Misc | A highly configurable media player that supports more codecs than Windows Media Player | INCREDIBLE!! Supports ProRes files as well which makes this amazing for working with rushes |
 | [OBS](https://obsproject.com/) | Misc | Highly configurable recording / streaming tool | This is the GOLD standard in screen recording period. |
 | [AutoHotKey](https://www.autohotkey.com/download/) | Misc | A scripting language that allows you to create macros for Windows computers | how am I supposed to play stardew without this |
