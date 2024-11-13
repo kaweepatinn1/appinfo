@@ -6,7 +6,7 @@ a list of free windows apps I find useful!
 
 | App Name | Type | Description | Notes |
 | -------- | ------- | ------- | ------- |
-| #0: [FFmpeg](https://www.ffmpeg.org/)  | Misc | CLI encoder tool | The foundation of the entire visual internet. Most widely used encoding solution globally |
+| #0: [FFmpeg](https://www.ffmpeg.org/)  | Misc | CLI encoder tool. The foundation of the entire visual internet | [Shutter Encoder](https://www.shutterencoder.com/) is a great GUI interface for FFmpeg |
 | #1: [gInk](https://github.com/geovens/gInk)  | Misc | A drawing tool for your desktop, with many cool features! | NANO VOUCH! Allows for drawing (on) images and diagrams without having to import anything!! |
 | #2: [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) | Misc | A collection of tools to help use your computer more efficiently | My #1 and #2 favs are the "always on top" and "color picker" modules!! |
 | #3: [mpv](https://mpv.io/) | Misc | A highly configurable media player that supports more codecs than Windows Media Player | INCREDIBLE!! Supports ProRes files as well which makes this amazing for working with rushes |
