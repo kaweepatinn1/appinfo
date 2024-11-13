@@ -1,5 +1,5 @@
 # appinfo
-A list of windows apps I find useful
+a list of windows apps I find useful!
 # WIP!!!
 
 ## Definitions
