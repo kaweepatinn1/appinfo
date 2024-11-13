@@ -2,7 +2,7 @@
 a list of free windows apps I find useful!
 # WIP!!!
 
-## Definitions
+## Apps
 
 | App Name | Type | Description | Notes |
 | -------- | ------- | ------- | ------- |
@@ -25,7 +25,7 @@ a list of free windows apps I find useful!
 | [four-tris](https://github.com/fiorescarlatto/four-tris) | Game | Offline gaming client for practicing Tetris | N/A |
 | [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker/releases) | Game | No FPS cap for Roblox | N/A |
 
-
+## Definitions
 
 Misc: <br>
 Apps with uses that are generally useful. <br>
