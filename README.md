@@ -18,6 +18,7 @@ a list of free windows apps I find useful!
 | [LiveSplit](https://livesplit.org/downloads/) | Misc / Game | A tool for creating and running speedrun timers | UI can be confusing at times, be sure to set up before playing. |
 | [nanopm](https://github.com/kaweepatinn1/nanopm) | Misc | A CLI tool for initializing and manipulating media production projects | MADE BY ME!!!! :D |
 | [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) | Utility | A tool for checking all USB ports on your computer | Good for checking USB speeds and generations to determine which to use for best file transfer speed. |
+| [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Utility | A more in depth version of task manager | Can find the process using a file. | 
 | [CoreTemp](https://www.alcpu.com/CoreTemp/) | Utility | A tool checking CPU information | MAKE SURE YOU UNCHECK "GROW YOUR EMPIRE" IN INSTALLATION!! |
 | [BES](https://mion.yosei.fi/BES/) | Utility | A tool to limit CPU usage for certain apps. | Allows your computer to actually function while doing an AE / Blender render (if using CPU)! |
 | [ExifTool](https://exiftool.org/) | Utility | A CLI tool for reading or manipulating file metadata. | Very nice to making an ARG with :3 |
@@ -25,6 +26,7 @@ a list of free windows apps I find useful!
 | [WinDirStat](https://windirstat.net/download.html) | Utility | A tool for working with directories in disks | N/A |
 | [Prime95](https://www.mersenne.org/download/) | Utility | Stress tester for your CPU. A byproduct of GIMPS | N/A |
 | [VIA](https://www.caniusevia.com/) | Utility | A tool to configure your custom keyboard with | N/A |
+| [CRU](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) | Utility | A tool to add custom monitor resolutions and refresh rates | Useful for custom resolutions on CRT monitors which use a different sort of "pixel". |
 | [four-tris](https://github.com/fiorescarlatto/four-tris) | Game | Offline gaming client for practicing Tetris | N/A |
 | [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker/releases) | Game | No FPS cap for Roblox | N/A |
 
