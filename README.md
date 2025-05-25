@@ -1,6 +1,6 @@
 # appinfo
-a list of free windows apps I find useful!
-# WIP!!!
+a list of free windows apps I find useful! keep in mind what _I_ find useful and what _you_ find useful may be different!
+# ALWAYS WIP!!!
 
 ## Apps
 
@@ -12,6 +12,7 @@ a list of free windows apps I find useful!
 | #3: [mpv](https://mpv.io/) | Misc | A highly configurable media player that supports more codecs than Windows Media Player | INCREDIBLE!! Supports ProRes files as well which makes this amazing for working with rushes |
 | [OBS](https://obsproject.com/) | Misc | Highly configurable recording / streaming tool | This is the GOLD standard in screen recording period. |
 | [AutoHotKey](https://www.autohotkey.com/download/) | Misc | A scripting language that allows you to create macros for Windows computers | how am I supposed to play stardew without this |
+| [Shutter Encoder](https://www.shutterencoder.com/) | Misc | A GUI interface for FFmpeg which contains a lot of options useful for video editors | Very very helpful tool for encoding. However uses a reverse engineered implementation of ProRes so you might want to avoid encoding to it. |
 | [Winaero Tweaker](https://winaero.com/winaero-tweaker/) | Utility | An app used for getting rid of a bunch of Windows garbage and tweaking with its settings | necessary for new installs |
 | [Mass Gravel](https://github.com/massgravel/Microsoft-Activation-Scripts/) | Utility | Literally lets you get any modern version of Windows for free lol | N/A |
 | [ActivityWatch](https://activitywatch.net/) | Misc | A tool for monitoring usage statistics on your devices | It's like a wrapped but you don't give your info to a company :shrug: |
