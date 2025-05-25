@@ -10,7 +10,7 @@ a list of free windows apps I find useful! keep in mind what _I_ find useful and
 | #1: [gInk](https://github.com/geovens/gInk)  | Misc | A drawing tool for your desktop, with many cool features! | NANO VOUCH! Allows for drawing (on) images and diagrams without having to import anything!! |
 | #2: [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) | Misc | A collection of tools to help use your computer more efficiently | My #1 and #2 favs are the "always on top" and "color picker" modules!! |
 | #3: [mpv](https://mpv.io/) | Misc | A highly configurable media player | INCREDIBLE!! Supports ProRes files as well which makes this amazing for working with rushes. Very good codec support! |
-| [OBS](https://obsproject.com/) | Misc | Highly configurable recording / streaming tool | This is the GOLD standard in screen recording period. |
+| [OBS](https://obsproject.com/) | Misc | Highly configurable recording / streaming tool | This is the GOLD standard in digital recording period. |
 | [AutoHotKey](https://www.autohotkey.com/download/) | Misc | A scripting language that allows you to create macros for Windows computers | how am I supposed to play stardew without this |
 | [Shutter Encoder](https://www.shutterencoder.com/) | Misc | A GUI interface for FFmpeg which contains a lot of options useful for video editors | Very very helpful tool for encoding. However uses a reverse engineered implementation of ProRes so you might want to avoid encoding to it. |
 | [Winaero Tweaker](https://winaero.com/winaero-tweaker/) | Utility | An app used for getting rid of a bunch of Windows garbage and tweaking with its settings | necessary for new installs |
