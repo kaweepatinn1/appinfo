@@ -21,7 +21,7 @@ a list of free windows apps I find useful!
 | [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Utility | A more in depth version of task manager | Can find the process using a file. | 
 | [CoreTemp](https://www.alcpu.com/CoreTemp/) | Utility | A tool checking CPU information | MAKE SURE YOU UNCHECK "GROW YOUR EMPIRE" IN INSTALLATION!! |
 | [BES](https://mion.yosei.fi/BES/) | Utility | A tool to limit CPU usage for certain apps. | Allows your computer to actually function while doing an AE / Blender render (if using CPU)! |
-| [ExifTool](https://exiftool.org/) | Utility | A CLI tool for reading or manipulating file metadata. | Very nice to making an ARG with :3 |
+| [ExifTool](https://exiftool.org/) | Utility | A CLI tool for reading or manipulating file metadata. | Very nice for making an ARG with :3 |
 | [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) | Utility | A tool to check what programs run on boot. | Good for looking for malware. |
 | [WinDirStat](https://windirstat.net/download.html) | Utility | A tool for working with directories in disks | N/A |
 | [Prime95](https://www.mersenne.org/download/) | Utility | Stress tester for your CPU. A byproduct of GIMPS | N/A |
